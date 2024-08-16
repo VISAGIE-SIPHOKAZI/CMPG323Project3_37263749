@@ -9,7 +9,7 @@ Enhance Code Practices: Apply best practices for coding and design patterns to i
 Version Control and Documentation: Utilize GitHub for version control and maintain a well-documented ReadMe.md file to explain project functionalities and user instructions.
 Azure Deployment: Deploy the final application to Azure App Service for secure and accessible web hosting.
 
-## Technology Options of Choice:
+### Technology Options of Choice:
 
 ASP.NET MVC: A mature and well-established framework for building web applications.
 
