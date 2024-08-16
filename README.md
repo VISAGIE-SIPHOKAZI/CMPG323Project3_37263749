@@ -36,4 +36,6 @@ The project is broken down into these phases:
 - Create a reference list document containing all resources used to complete the project.
 
 ## Training
-https://learn.microsoft.com/en-us/users/zeevisagie-5216/achievements/d64utkaj?ref=https%3A%2F%2Fwww.linkedin.com%2F
+-  https://learn.microsoft.com/en-us/users/zeevisagie-5216/achievements/d64utkaj?ref=https%3A%2F%2Fwww.linkedin.com%2F
+-  https://learn.microsoft.com/en-us/users/zeevisagie-5216/achievements/w73vxprn?ref=https%3A%2F%2Fwww.linkedin.com%2F
+-  https://learn.microsoft.com/en-us/users/ZeeVisagie-5216/achievements/NZHMYT3F?ref=https%3A%2F%2Fwww.linkedin.com%2F
