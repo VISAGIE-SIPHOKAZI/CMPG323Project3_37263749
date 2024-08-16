@@ -13,26 +13,26 @@ Azure Deployment: Deploy the final application to Azure App Service for secure a
 
 ASP.NET MVC: A mature and well-established framework for building web applications.
 
-### Project Structure:
+# Project Structure:
 
 The project is broken down into these phases:
 
-# Setup:
+## Setup:
 -  Access the existing project files based on your chosen technology (MVC or Blazor).
 -  Ensure you have Visual Studio 2022 and .NET 8 installed.
 -  Create a GitHub repository and connect the project.
   
-# Project Enhancements:
+## Project Enhancements:
 -  Implement the Repository Pattern by creating separate classes for data access logic (ProjectRepository and ClientRepository).
 -  Transfer data access operations from the controllers to the respective repository classes.
 -  Update the controllers to utilize the repository classes for CRUD operations.
 -  
-# Security and Deployment:
+## Security and Deployment:
 - Ensure no credentials are stored on GitHub.
 - Create an Azure App Service (F1 tier) and deploy the application.
   
-# Documentation:
+## Documentation:
 - Update the ReadMe.md file in the GitHub repository with user instructions and project details.
 - Create a reference list document containing all resources used to complete the project.
 
-# Training
+## Training
