@@ -1,13 +1,12 @@
 # CMPG323Project3_37263749
 ### Project Description: CRUD Application Enhancements with Repository Pattern
-This project focuses on enhancing an existing web application that manages Client and Project data using CRUD (Create, Read, Update, Delete) functionality. You'll have the option to work with either an ASP.NET MVC or a Blazor solution, depending on your preference.
-
+This project focuses on enhancing an existing web application that manages Client and Project data using CRUD (Create, Read, Update, Delete) functionality. I workED with either an ASP.NET MVC 
 ### Project Goals:
 
-Improve Code Structure: Implement the Repository Pattern to separate data access logic from the controllers, promoting cleaner and more maintainable code.
-Enhance Code Practices: Apply best practices for coding and design patterns to improve the overall quality of the application.
-Version Control and Documentation: Utilize GitHub for version control and maintain a well-documented ReadMe.md file to explain project functionalities and user instructions.
-Azure Deployment: Deploy the final application to Azure App Service for secure and accessible web hosting.
+Improve Code Structure: I implemented the Repository Pattern to separate data access logic from the controllers, promoting cleaner and more maintainable code.
+Enhance Code Practices: I then applied  practices for coding and design patterns to improve the overall quality of the application.
+Version Control and Documentation: i used GitHub for version control and maintain a well-documented ReadMe.md file to explain project functionalities and user instructions.
+Azure Deployment: I deployed the final application to Azure App Service for secure and accessible web hosting.
 
 ### Technology Options of Choice:
 
@@ -18,24 +17,24 @@ ASP.NET MVC: A mature and well-established framework for building web applicatio
 The project is broken down into these phases:
 
 ## Setup:
--  Access the existing project files based on your chosen technology (MVC or Blazor).
--  Ensure you have Visual Studio 2022 and .NET 8 installed.
--  Create a GitHub repository and connect the project.
+-  I access the existing project files based on MVC.
+-  Ensured I used  Visual Studio 2022 and .NET 8.
+-  Used a new GitHub repository for project 3 and connect the project.
   
 ## Project Enhancements:
--  Implement the Repository Pattern by creating separate classes for data access logic (ProjectRepository and ClientRepository).
--  Transfer data access operations from the controllers to the respective repository classes.
--  Update the controllers to utilize the repository classes for CRUD operations.
+-  implemented the Repository Pattern by creating separate classes for data access logic (ProjectRepository and ClientRepository).
+-  transfered data access operations from the controllers to the respective repository classes.
+-  updated the controllers to utilize the repository classes for CRUD operations.
 -  
 ## Security and Deployment:
-- Ensure no credentials are stored on GitHub.
-- Create an Azure App Service (F1 tier) and deploy the application.
+- no credentials are stored on GitHub.
+   Azure App Service (F1 tier) and deploy the application.
   
 ## Documentation:
-- Update the ReadMe.md file in the GitHub repository with user instructions and project details.
-- Create a reference list document containing all resources used to complete the project.
+- a reference list document containing all resources used to complete the project is attached
 
 ## Training
 -  https://learn.microsoft.com/en-us/users/zeevisagie-5216/achievements/d64utkaj?ref=https%3A%2F%2Fwww.linkedin.com%2F
 -  https://learn.microsoft.com/en-us/users/zeevisagie-5216/achievements/w73vxprn?ref=https%3A%2F%2Fwww.linkedin.com%2F
 -  https://learn.microsoft.com/en-us/users/ZeeVisagie-5216/achievements/NZHMYT3F?ref=https%3A%2F%2Fwww.linkedin.com%2F
+-  https://www.mygreatlearning.com/certificate/DAPWXIFP
